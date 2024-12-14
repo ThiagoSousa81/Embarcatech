@@ -18,10 +18,10 @@ Códigos realizados na monitoria e durante o curso de Sistemas Embarcados
 | `>=`             | Maior ou igual a: verifica se o primeiro operando é maior ou igual ao segundo. |
 | `<=`             | Menor ou igual a: verifica se o primeiro operando é menor ou igual ao segundo. |
 | `&&`             | E lógico: retorna verdadeiro se ambos os operandos forem verdadeiros.    |
-| `||`             | Ou lógico: retorna verdadeiro se pelo menos um dos operandos for verdadeiro. |
+|  `Erro`               | Ou lógico: retorna verdadeiro se pelo menos um dos operandos for verdadeiro. |
 | `!`              | Negação lógica: inverte o valor de verdade do operando.                  |
 | `&`              | E comercial: operador bit a bit que realiza a operação AND.              |
-| `|`              | Ou bit a bit: operador bit a bit que realiza a operação OR.              |
+| `Erro`              | Ou bit a bit: operador bit a bit que realiza a operação OR.              |
 | `^`              | Ou exclusivo: operador bit a bit que realiza a operação XOR.             |
 | `~`              | Complemento: inverte todos os bits do operando.                          |
 | `<<`             | Deslocamento à esquerda: desloca os bits do operando para a esquerda.    |
