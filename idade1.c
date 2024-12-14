@@ -9,4 +9,5 @@ int main(){
     else{
         printf("Você é maior de idade!");
     }
+    return 0;
 }
